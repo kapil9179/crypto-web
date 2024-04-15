@@ -1,11 +1,12 @@
-# Crypto App 
-
+# Crypto web
+ 
+visit link: https://crypto-web-sigma.vercel.app/
 
 
 
 ## Introduction
 
-Welcome to the Crypto App, a one-stop solution for all your cryptocurrency needs. This application is designed to provide real-time data on the top trending coins in the cryptocurrency market. Built with React and deployed on Vercel, it offers a seamless and intuitive user experience.
+Welcome to the Crypto web, a one-stop solution for all your cryptocurrency needs. This application is designed to provide real-time data on the top trending coins in the cryptocurrency market. Built with React and deployed on Vercel, it offers a seamless and intuitive user experience.
 
 ## Core Features
 
