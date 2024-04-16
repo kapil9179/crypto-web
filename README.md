@@ -27,3 +27,5 @@ Welcome to the Crypto web, a one-stop solution for all your cryptocurrency needs
 Follow these steps to install and run the project locally:
 
 1. Clone the repository:
+2. npm install node-modules
+3. npm run dev
